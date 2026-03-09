@@ -2,7 +2,7 @@
 A for loop iterates over each item in a sequence, such as a list, string, or range. The loop runs once for each item
 
 ```python
-fruits = ["apple", "banana", "cherry"]
+fruits = ["apple", "banana", "mango"]
 
 for fruit in fruits:
     print(fruit)
@@ -18,7 +18,7 @@ for letter in word:
 
 # While Loops
 
-A while loop runs as long as a condition stays true. When the condition becomes false, the loop stops.
+A while loop runs as long as a condition stays true. When the condition/code turns false, the loop stops.
 
 
 ```python
